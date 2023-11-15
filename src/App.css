@@ -11,13 +11,10 @@
  margin-left: 35px;
   width: 100%;
 }
-
 .container {
-  
   background-image: url(../assets/cover.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  
   width: 100%;
   max-width: 1400px;
   margin: auto;
