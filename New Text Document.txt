@@ -1,0 +1,3 @@
+https://api.themoviedb.org/3/movie/550?api_key=b6434bbf5557a52512008a50a1331ff7
+
+https://api.themoviedb.org/3/movie/popular?api_key=b6434bbf5557a52512008a50a1331ff7
