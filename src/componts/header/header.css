@@ -1,0 +1,33 @@
+.container .header {
+  background-color: #4343;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  margin: 10px;
+}
+.input {
+  width: 250px;
+  height: 50px;
+  padding-left: 25px;
+  border-radius: 50px;
+  background-color: white;
+}
+button {
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 50px;
+  width: 140px;
+  color: black;
+  font-size: 20px;
+
+  border: none;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 5px;
+}
+.container h1 {
+  color: white;
+  margin-left: 25px;
+  font-size: 60px;
+}
