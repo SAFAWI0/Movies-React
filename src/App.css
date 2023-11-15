@@ -6,24 +6,27 @@
 .movies {
   justify-content: space-around;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
  margin-left: 35px;
   width: 100%;
 }
 
 .container {
-  padding: 1.5rem;
+  
   background-image: url(../assets/cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   
   width: 100%;
-  max-width: 1300px;
+  max-width: 1400px;
   margin: auto;
 }
 .container .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-right: 20px;
  
 
  
@@ -40,10 +43,9 @@ button {
   width: 80px;
   color: black;
   font-size: 20px;
-  border: none;
-  border: 1px solid white;
+
   background-color: white;
-  border-radius: 5px;
+  border-radius: 10px;
   
 }
 .input {
@@ -53,6 +55,7 @@ button {
   border-radius: 50px;
   font-size: 25px;
   background-color: white;
+  
 }
 
 .logo{
